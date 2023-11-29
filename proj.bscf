@@ -1,0 +1,4 @@
+TARGET EXEC test ALL
+
+GITINCLUDE https://github.com/wk1093/bscfTestLib bscfTestLib
+DEPEND test testlib
